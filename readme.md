@@ -20,6 +20,6 @@ A full list of design patterns, testing/evaluation, user manual, general GUI, an
 
 ---
 
-This was a project developed using Java, Java Swing, and software engineering principles. These principles include design patterns, a class hierarchy, and Scrum as an Agile team collaboration framework (1 week sprints).
+This was a project developed using Java, Java Swing, and software engineering principles. These principles include design patterns, a well-defined class hierarchy, and Scrum as an Agile team collaboration framework (1 week sprints).
 
 ChatGPT was consulted throughout the project.
