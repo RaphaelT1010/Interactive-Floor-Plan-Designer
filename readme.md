@@ -15,6 +15,7 @@ This project was created in EEC 160 (Software Engineering).
 - **Save/Load Functionality**: Options to save floor plan designs for future editing or sharing.
 
 This tool offers an intuitive and efficient platform for creating and customizing floor plans.
+
 A full list of design patterns, testing/evaluation, user manual, general GUI, and UML diagrams are in the project report PDF.
 
 ---
