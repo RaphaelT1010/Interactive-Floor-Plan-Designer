@@ -4,7 +4,7 @@ The **Interactive Floor Plan Designer** is a Java Swing application developed fo
 
 Built by enhancing a paint application framework week by week using an Agile framework, it enables users to design, visualize, and edit floor plans for rooms, houses, or offices. 
 
-This project was created in EEC 160 (Software Engineering).
+This project was created in EEC 160 (Software Engineering) during my UC Davis enrollment.
 
 ---
 
